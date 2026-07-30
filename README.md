@@ -25,5 +25,6 @@ a6-6-2d-3u-4u-D-b-(b-1-4)-a6-6-2d-3u-4d-D-a (translates to alpha-lactose)
 (1-4) = glycosidic linkage (carbon 1 on galactose is linked to carbon 4 on glucose)
 b = linkage type (beta)
 
-It can also include specific addons to denote extra features of a multi-sugar sequence (Add -R to denote repetition, -S for sulphate addition, -G for glucuronic acid addition, -AC for acetylation and -C for pyruvate addition). Multiple addons can be stacked one after the other.
+It can also include specific modifiers to denote extra features of a multi-sugar sequence.
+Add -R to denote repetition, -S for sulphate addition, -G for glucuronic acid addition, -AC for acetylation and -C for pyruvate addition. Multiple modifiers can be stacked one after the other.
 SIL is also open to editing, so you can refine how you want.
