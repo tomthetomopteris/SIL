@@ -1,4 +1,6 @@
-![My Image](sil.png)
+<p align="center">
+  <img src="sil.png">
+</p>
 
 <h1 align="center" style="font-size: 48;">Saccharide Identification Language (SIL)</h1>
 
