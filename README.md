@@ -2,8 +2,6 @@
 
 Saccharide Identification Language (SIL) is supposed to be a method of denoting sugars and is meant to replace systematic IUPAC sugar naming as a human-friendly and computer-readable notation. 
 
-PS: SIL does NOT do anything about the Sugar Code or whatnot. It is a sugar NOTATION.
-
 An example of SIL syntax is shown below:
 
 a6-6-2d-3u-4d-D-a (translates to alpha-D-glucopyranose)
