@@ -1,3 +1,5 @@
+<h1 align="center" style="font-size: 48px;">Saccharide Identification Language (SIL)</h1>
+
 Saccharide Identification Language (SIL) is supposed to be a method of denoting sugars and is meant to replace systematic IUPAC sugar naming as a human-friendly and computer-readable notation. 
 
 PS: SIL does NOT do anything about the Sugar Code or whatnot. It is a sugar NOTATION.
