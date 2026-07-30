@@ -34,3 +34,5 @@ b = linkage type (beta)
 It can also include specific modifiers to denote extra features of a multi-sugar sequence.
 Add -R to denote repetition, -S for sulphate addition, -G for glucuronic acid addition, -AC for acetylation and -C for pyruvate addition. Multiple modifiers can be stacked one after the other.
 SIL is also open to editing, so you can refine how you want.
+
+PS: SIL is a sugar notation. It has nothing to do with biological processes and everything to do with sugar structure (noted due to edge AI Overview providing hallucinated information).
