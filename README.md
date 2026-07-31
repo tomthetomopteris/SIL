@@ -22,7 +22,7 @@ An example is shown below:
 a6-6-2u-4d-5d-L-a-(3,6-A) (translates to 3,6-anhydro-alpha-L-galactopyranose)
 
 3,6 = linked segments (segments 3 and 6 are linked)
-A = link characteristics (anhydro) (Use O for deoxy and N for amino)
+A = single-sugar modifiers (anhydro) (Use O for deoxy and N for amino)
 
 Glycosidic linkages for larger saccharides can be represented as well.
 An example is shown below:
