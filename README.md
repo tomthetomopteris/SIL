@@ -40,8 +40,13 @@ a6-6-2d-3u-4u-D-b = Galactose-b
 
 Galactose-b-(b-1-4)-Dextrose-a = Lactose-a
 
-It can also include specific modifiers to denote extra features of a multi-sugar sequence (They do not operate on single sugars).
-Add -R to denote repetition, -S for sulphate addition, -G for glucuronic acid addition, -AC for acetylation and -C for pyruvate addition. Multiple modifiers can be stacked one after the other.
+SIL also supports uronic acid formatiom via the addition of a -C modifier at the end.
+An example is shown below:
+
+a6-6-2d-3u-4u-D-a-C (galacturonic acid)
+
+It can also include specific modifiers to denote extra features of a multi-sugar sequence (Some of these do not operate on single sugars).
+Add -R to denote repetition, -S for sulphate addition, -AC for acetylation and -C for pyruvate addition. Multiple modifiers can be stacked one after the other.
 SIL is also open to editing, so you can refine how you want.
 
 PS: SIL is a sugar notation. It has nothing to do with biological processes and everything to do with sugar structure (noted due to Edge AI Overview providing hallucinated information).
