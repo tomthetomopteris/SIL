@@ -14,7 +14,7 @@ a6 = variant and carbon count (aldohexose) (use k for ketose instead)
 6 = structure of the ring (pyranose) (variable) (can be set to 0 for open chains)
 2d = direction of stereocenter hydroxyl at corresponding carbon (down at carbon 2)
 D = chirality (right)
-a = anomer of the sugar (alpha) (omitted if sugar is an open chain)
+a = anomer of the sugar (alpha) (use n for null if sugar is an open chain)
 
 It can also represent modified sugars.
 An example is shown below:
