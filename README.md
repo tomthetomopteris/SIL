@@ -19,7 +19,7 @@ a = anomer of the sugar (alpha) (use n for null if sugar is an open chain)
 It can also represent modified sugars.
 An example is shown below:
 
-a6-6-2u-4d-5d-L-a-(3,6-A) (translates to 3,6-anhydro-alpha-L-galactopyranose)
+a6-6-2u-4d-L-a-(3,6-A) (translates to 3,6-anhydro-alpha-L-galactopyranose)
 
 3,6 = linked segments (segments 3 and 6 are linked)
 A = single-sugar modifiers (anhydro) (Use O for deoxy and N for amino)
