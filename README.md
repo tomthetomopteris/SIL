@@ -31,7 +31,7 @@ a6-6-2d-3u-4u-D-b-(b-1-4)-a6-6-2d-3u-4d-D-a (translates to alpha-lactose)
 (1-4) = glycosidic linkage (carbon 1 on galactose is linked to carbon 4 on glucose)
 b = linkage type (beta)
 
-If a larger saccharide is represented via repitition of a smaller object, an extra glycosidic linkage must be specified before the repeat flag
+If a larger saccharide is represented via repetition of a smaller object, an extra glycosidic linkage must be specified before the repeat flag
 
 An example is shown below:
 
