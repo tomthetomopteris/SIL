@@ -12,7 +12,7 @@ a6-6-2d-3u-4d-D-a (translates to alpha-D-glucopyranose)
 
 a6 = variant and carbon count (aldohexose) (use k for ketose instead)
 6 = structure of the ring (pyranose) (variable) (can be set to 0 for open chains)
-2d = direction of stereocenter hydroxyl at corresponding carbon (down at carbon 2)
+2d = direction of stereocenter at corresponding carbon (down at carbon 2) (negated if no stereocenter present at carbon)
 D = chirality (right)
 a = anomer of the sugar (alpha) (use n for null if sugar is an open chain)
 
