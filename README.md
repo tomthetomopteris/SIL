@@ -13,16 +13,17 @@ a6-6-2d-3u-4d-D-a (translates to alpha-D-glucopyranose)
 a6 = variant and carbon count (aldohexose) (use k for ketose instead)
 6 = structure of the ring (pyranose) (variable) (can be set to 0 for open chains)
 2d = direction of stereocenter at corresponding carbon (down at carbon 2) (negated if no stereocenter present at carbon)
-D = chirality (right)
+D = enantiomer (D-series)
 a = anomer of the sugar (alpha) (use n for null if sugar is an open chain)
 
 It can also represent modified sugars.
 An example is shown below:
 
-a6-6-2u-4d-L-a-(3,6-A) (translates to 3,6-anhydro-alpha-L-galactopyranose)
+a6-6-2d-4u-L-a-(3,6-A) (translates to 3,6-anhydro-alpha-L-galactopyranose)
 
 3,6 = linked segments (segments 3 and 6 are linked)
 A = single-sugar modifiers (anhydro) (Use O for deoxy and N for amino)
+(using the enantiomer flag on a sugar will flip its predefined stereochemistry)
 
 Glycosidic linkages for larger saccharides can be represented as well.
 An example is shown below:
